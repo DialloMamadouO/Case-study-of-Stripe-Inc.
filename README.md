@@ -1,9 +1,8 @@
 # FinTech Case Study of Stripe, Inc.
  
 ## OVERVIEW AND ORIGIN 
-
-Company: STRIPE 
-Description 
+ 
+Description:  
 Stripe is a privately held American technology company that allows individuals and businesses to make and receive payments over the Internet. Stripe was founded in 2009 in San Francisco, California by two brothers John and Patrick Collison and as of this year, Stripe has aroud 2500 employees. 
 The company is headquartered in San Francisco, California and has such subsidiaries as: Indie Hackers, Tiempo Labs, Inc., TouchTech Corporation, Index Systems, Inc., Kickoff, Runkit.  
 Stripe launched publicly in September 2011 after an extensive private beta. Less than a year after its public launch, Stripe received a $20 million Series B investment. In March 2013, Stripe acquired the chat and task-management application kick-off.
@@ -12,16 +11,12 @@ John and Patrick first started working on Stripe in early 2010. The inspiration 
  
 Stripe is funded by venture capital and has raised a total of $1.7 billions in funding from 29 investors over 12 rounds for a 36 billions valuation. Their latest funding was raised on Apr 16, 2020 from a Series G.
  
-Stripe funding rounds, valuation and investors
-Stripe Funding Rounds Summary
-Stripe total Funding	$1.7 billions
-Stripe latest funding size	$600 m
-
 Stripe investors:	Playfair Capital, Sequoia Capital, Y Combinator, Founders Fund, Redpoint Ventures, Khosla Ventures, SV Angel, Andreessen Horowitz, DST Global, Thrive Capital, Allen & Company, General Catalyst, Lowercase Capital, Chris Dixon, Aaron Levie, American Express, Tiger Global Management, Visa, Peter Thiel, Elad Gil, American Express Ventures, Square Peg Capital, Designer Fund, Paua Ventures, GV, CapitalG, Sequoia, Kleiner Perkins C & B, GC Capital
 
 Stripe's latest funding round in April 2020 was reported to be $600 m. In total, Stripe has raised $1.7 b. Stripe's latest valuation is reported to be $36 b.
+
 Stripe Funding Rounds
-	Date	Amount Raised	Post-money Valuation	Investors
+Date	Amount Raised	Post-money Valuation	Investors
 Seed	Aug 2010		$24.1 k	Y Combinator
 
 Seed	Mar 2011	$2 m		Sequoia Capital, SV Angel, Andreessen Horowitz, Peter Thiel
