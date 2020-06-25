@@ -167,5 +167,5 @@ References:
 12.	www.idc.com 
 13.	https://www.cnbc.com/2019/09/05/stripe-the-worlds-most-valuable-private-fintech-company-is-getting-into-lending.html 
 14.	https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/tracking%20the%20sources%20of%20robust%20payments%20growth%20mckinsey%20global%20payments%20map/global-payments-report-2019-amid-sustained-growth-vf.ashx 
- https://craft.co/stripe/funding-rounds
+ 15. https://craft.co/stripe/funding-rounds
 
