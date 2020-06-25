@@ -15,8 +15,9 @@ Stripe investors:	Playfair Capital, Sequoia Capital, Y Combinator, Founders Fund
 
 Stripe's latest funding round in April 2020 was reported to be $600 m. In total, Stripe has raised $1.7 b. Stripe's latest valuation is reported to be $36 b.
 
-Stripe Funding Rounds
-Date	Amount Raised	Post-money Valuation	Investors
+Funding Rounds:
+
+     Date	    Amount Raised	  Post-money Valuation	 Investors
 Seed	Aug 2010		$24.1 k	Y Combinator
 
 Seed	Mar 2011	$2 m		Sequoia Capital, SV Angel, Andreessen Horowitz, Peter Thiel
