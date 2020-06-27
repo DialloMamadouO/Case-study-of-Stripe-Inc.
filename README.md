@@ -1,6 +1,8 @@
 # FinTech Case Study of Stripe, Inc.
  
 ## OVERVIEW AND ORIGIN 
+
+#This case study of Stripe analyses specifically the origin and evolution of the company. How Stripe is responding to the problems and needs of its domain through its business activities and with what technologies. What is the dynamic of the landscape of the domain and how Stripe is faring amongst its competitors? Finally we offer some recommendations to the company as to what we think can help it grow worldwide and become an even more important player in the Fintech field.  
  
 Description:  
 Stripe is a privately held American technology company that allows individuals and businesses to make and receive payments over the Internet. Stripe was founded in 2009 in San Francisco, California by two brothers John and Patrick Collison and as of this year, Stripe has aroud 2500 employees. 
